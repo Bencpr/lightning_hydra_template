@@ -1,0 +1,5 @@
+# @package _group_
+class_name: torchmetrics.F1Score
+metric_name: f1_score
+params:
+  average: weighted
